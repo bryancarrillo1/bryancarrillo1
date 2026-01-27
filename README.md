@@ -2,11 +2,8 @@
 
 # 👋 Hello, I'm Bryan
 
-### Turning Ideas Into Code
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Turning+Ideas+into+Code" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-
-</div>
 
 ---
 <div align="center">
@@ -20,11 +17,7 @@
 
 ---
 
-<div align="center">
 
-### 🌟 *Building digital experiences that matter*
-
-**`Code Craftsman • Design Thinker • Tech Enthusiast`**
 
 </div>
 
@@ -32,24 +25,23 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
-    location: "📍 Your City, Country",
-    currentRole: "Software Developer",
+    name: "Bryan Carrillo",
+    location: "📍 Tampa, FL",
+    currentRole: "CS Student @ UF",
     code: ["JavaScript", "Python", "TypeScript", "Java"],
     technologies: {
         frontEnd: {
             frameworks: ["React", "Next.js", "Vue"],
-            styling: ["Tailwind CSS", "Styled Components", "SASS"]
+            styling: ["Tailwind CSS", "Styled Components"]
         },
         backEnd: {
-            runtime: ["Node.js", "Express", "Django"],
-            databases: ["MongoDB", "PostgreSQL", "Redis"]
+            runtime: ["Node.js", "Express", "Flask"],
+            databases: ["MongoDB", "PostgreSQL", "Firebase"]
         },
-        devOps: ["Docker", "AWS", "CI/CD", "Git"],
-        tools: ["VS Code", "Figma", "Postman"]
+        devOps: ["AWS", "CI/CD", "Git"],
+        tools: ["VS Code", "Postman"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed"
+    currentFocus: "Building scalable, impactful web applications",
 };
 ```
 
@@ -91,16 +83,16 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryancarrillo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancarrillo1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryancarrillo1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryancarrillo1&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -132,7 +124,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bryancarrillo1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
 ---
@@ -140,23 +132,10 @@ const developer = {
 ## 💼 What I'm Up To
 
 ```yaml
-currently_learning: ["System Design", "Cloud Architecture", "Machine Learning"]
-currently_working_on: "A cool project that solves X problem"
-open_to: ["Freelance Projects", "Full-time Opportunities", "Collaboration"]
-fun_side_projects: ["Building a productivity app", "Contributing to open source"]
-hobbies: ["Photography", "Gaming", "Coffee brewing"]
+currently_learning: ["System Design", "Machine Learning"]
+open_to: ["Internship Opportunities", "Collaboration"]
+hobbies: ["Working out", "Reading", "Gaming"]
 ```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryancarrillo1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancarrillo794@gmail.com)
-
-</div>
 
 ---
 

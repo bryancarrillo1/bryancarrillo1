@@ -8,7 +8,7 @@
 ---
 <div align="center">
   
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryancarrillo1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancarrillo794@gmail.com)
@@ -21,7 +21,7 @@
 
 </div>
 
-## 💫 About Me
+## About Me
 
 ```typescript
 const developer = {
@@ -80,7 +80,7 @@ const developer = {
 ---
 
 
-## 🎯 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -92,7 +92,7 @@ const developer = {
 
 ---
 
-## 💼 What I'm Up To
+## What I'm Up To
 
 ```yaml
 currently_learning: ["System Design", "Machine Learning"]
@@ -102,7 +102,7 @@ hobbies: ["Working out", "Reading", "Gaming"]
 
 ---
 
-## 💭 Random Dev Quote of the Day
+## Dev Quote of the Day
 
 <div align="center">
 

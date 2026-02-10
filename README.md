@@ -100,12 +100,3 @@ open_to: ["Internship Opportunities", "Collaboration"]
 hobbies: ["Working out", "Reading", "Gaming"]
 ```
 
----
-
-## Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>

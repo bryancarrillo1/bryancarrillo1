@@ -80,18 +80,6 @@ const developer = {
 ---
 
 
-## Featured Project
-
-<div align="center">
-
-<a href="https://github.com/bryancarrillo1/fuel-scout">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bryancarrillo1&repo=fuel-scout&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
----
-
 ## What I'm Up To
 
 ```yaml
